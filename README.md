@@ -18,8 +18,8 @@
 🏆 Competitive Programmer
 
 * LeetCode Rating: 1875
-* CodeChef Rating: 1535
-* Codeforces Rating: 1100 (Max: 1216)
+* CodeChef Rating: 1563
+* Codeforces Rating: 1216
 
 ⚡ Strong foundation in Data Structures, Algorithms, OOP, DBMS, OS, and Computer Networks
 
@@ -36,10 +36,10 @@
 <img src="https://img.shields.io/badge/LeetCode-1875-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="https://codeforces.com/profile/lokesh719">
-<img src="https://img.shields.io/badge/Codeforces-1100-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-1216-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 <a href="https://www.codechef.com/users/lokesh_719">
-<img src="https://img.shields.io/badge/CodeChef-1535-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-1563-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 </p>
 
