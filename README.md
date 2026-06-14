@@ -74,9 +74,9 @@ Tech Stack
 
 Node.js • Express.js • MongoDB • Redis • React • Judge0
 
-🌐 Live Demo: https://your-domain.com
+🌐 Live Demo: https://www.codearenaapp.com
 
-📂 GitHub Repository: https://github.com/lokeshkumar719/coding-platform
+📂 GitHub Repository: https://github.com/Lokeshkumar719/CodeArena
 
 ⸻
 
